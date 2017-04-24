@@ -1,0 +1,1 @@
+document.getElementById('mostrar_paginas').innerHTML = Date()
